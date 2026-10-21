@@ -1,0 +1,1 @@
+{"name":"zenitsu-sensi-loja","version":"1.2.0","main":"index.js","scripts":{"start":"node index.js"},"dependencies":{"discord.js":"^14.19.3","dotenv":"^16.4.7"}}
